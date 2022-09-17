@@ -1,6 +1,43 @@
-body {
-    background-image: url(./assets/bg.jpg);
-    background-position: top center;
-    background-size: 100% auto;
-    background-repeat: no-repeat;
-}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  body {
+      background-image: url(./assets/bg.jpg);
+      background-position: top center;
+      background-size: 100% auto;
+      background-repeat: no-repeat;
+      background-color: #121214;
+  }
+  
+  body * {
+    font-family: 'Inter', sans-serif;
+    line-height: 160%;
+  }
+  
+  main *{
+    border: 1px solid red;
+  }
+  
+  main {
+    max-width: 580px;
+    width: 90%;
+    margin: auto;
+  }
+  
+  section {
+    color: white;
+  }
+  
+  section h2 {
+    letter-spacing: -0.47px;
+  }
+  
+  section p {
+    
+  }
