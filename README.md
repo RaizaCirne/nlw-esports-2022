@@ -112,7 +112,7 @@ Revisitar/revisar conteúdo prático e me desafiar ao fazer um novo projeto com 
 
 <br />
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://warm-travesseiro-f68ed3.netlify.app/)
 
 <br />
 
@@ -166,7 +166,7 @@ Agradeço a Rocktseat e ao instrutor Mayk Brito pela oportunidade de participar 
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz]()
+- Personal Page - [Raíza Cirne Braz](https://warm-travesseiro-f68ed3.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
